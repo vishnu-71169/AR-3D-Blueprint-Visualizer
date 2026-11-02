@@ -1,0 +1,39 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# IDE files
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+*.pdb
+*.mdb
+
+# Unity test runner leftovers and stray copies
+/Assets/Resources/PerformanceTestRunInfo.json*
+/Assets/Resources/PerformanceTestRunSettings.json*
+*- Copy*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
